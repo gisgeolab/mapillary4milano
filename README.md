@@ -10,7 +10,7 @@ This repository can share knowledge about how to contribute to Mapillary as Open
 ## 1. Documents
 
 ### 2025-02-26 Mapillary Seminar at PoliMI
- * [Taichi's Slide](https://speakerdeck.com/mapconcierge4agu/2025-02-26-how-to-contribute-to-mapillary-at-polimi)
+ * [Taichi's Slide, "How to contribute to Mapillary"](https://speakerdeck.com/mapconcierge4agu/2025-02-26-how-to-contribute-to-mapillary-at-polimi)
 
 
 ## 2. Sample Dataset for Hands-on
