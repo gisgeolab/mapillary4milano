@@ -6,10 +6,12 @@
 ## 0. Abstract
 This repository can share knowledge about how to contribute to Mapillary as Open Street-Level imagery in Milano and the World.
 
+
 ## 1. Documents
 
 ### 2025-02-26 Mapillary Seminar at PoliMI
  * [Slide](https://speakerdeck.com/mapconcierge4agu/2025-02-26-how-to-contribute-to-mapillary-at-polimi)
+
 
 ## 2. Sample Dataset
  * If you want to use the data for your practice, just put your name and date on [this spreadsheet<img src="https://github.com/user-attachments/assets/cb5fca4e-866d-4698-8792-6f6f517c5243" width="20">](https://docs.google.com/spreadsheets/d/11ioBSpjB877G5gc4DCDiDD8Q9hdCrFwtPawnGA6ywa8/edit?usp=sharing) and then download it.
@@ -17,7 +19,16 @@ This repository can share knowledge about how to contribute to Mapillary as Open
  * [Ricoh THETA X - 11K Panorama Photos, 6 sec interval](https://github.com/gisgeolab/mapillary4milano/tree/main/sampledata/duomo20250224thetax)
 
 
-## 3. References
+## 3. How to Upload 360° Panorama Photos to Mapillary  
+
+ * 3-1. Install [the Mapillary Uploader](https://www.mapillary.com/desktop-uploader) on your PC.  
+ * 3-2. Download a 360° panorama street-level image from [Ricoh THETA X - 11K Panorama Photos, 6 sec interval](https://github.com/gisgeolab/mapillary4milano/tree/main/sampledata/duomo20250224thetax).  
+ * 3-3. Drag and drop a JPEG file into the Mapillary Uploader.  
+ * 3-4. Wait for a moment...  
+ * 3-5. The data will be published automatically.  
+
+
+## 4. References
  * Mapillary: https://www.mapillary.com
  * Mapillary Mobile Apps: https://www.mapillary.com/mobile-apps
  * Mapillary Uploader: https://www.mapillary.com/desktop-uploader
