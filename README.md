@@ -1,7 +1,7 @@
 # mapillary4milano
 360 panorama data collection in Milano city
 
-[<img src="https://github.com/user-attachments/assets/2f49a788-4e30-4a75-9285-929357a3aed2" width="500" >](https://www.mapillary.com/app/?lat=45.4709864944916&lng=9.19042435669212&z=12.814369492427602)
+[<img src="https://github.com/user-attachments/assets/2f49a788-4e30-4a75-9285-929357a3aed2" width="600" >](https://www.mapillary.com/app/?lat=45.4709864944916&lng=9.19042435669212&z=12.814369492427602)
 
 ## 0. Abstract
 This repository can share knowledge about how to contribute to Mapillary as Open Street-Level imagery in Milano and the World.
